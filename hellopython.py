@@ -37,3 +37,15 @@ new_string = quote + multi_line_quote
 print("%s %s %s" %('I like the quote', quote, multi_line_quote))
 
 print('\n' * 5)
+
+
+pi_tuple = (3,1,4,1,5,9)
+
+new_tuple = list(pi_tuple)
+new_list = tuple(new_tuple)
+
+
+super_villians = {'Fiddler' : 'Isaac Bowin', 'Captain Cold' : 'Lenord Snart'}
+
+print(super_villians['Captain Cold'])
+print(len(super_villians))
