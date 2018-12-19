@@ -48,4 +48,15 @@ new_list = tuple(new_tuple)
 super_villians = {'Fiddler' : 'Isaac Bowin', 'Captain Cold' : 'Lenord Snart'}
 
 print(super_villians['Captain Cold'])
-print(len(super_villians))
+
+
+age = 21
+
+if age > 16 :
+    print('You are old enough to drive')
+else :
+    print('You are not old enough to drive')
+elif age >= 21 :
+    print('You are old enough to drive to drive a tractor trailer ')
+else :
+    print("you are not old enough to drive")
