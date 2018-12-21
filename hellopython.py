@@ -28,9 +28,9 @@ print("5 % 2 =", 5%2)
 print("5 ** 2 =", 5**2)
 print("5 // 2 =", 5//2)
 
-quote = "\"Always remember you are unique"
+quote = "Always remember you are unique"
 
-multi_line_quote = ''' just like everyone else'''
+multi_line_quote = '''just like everyone else'''
 
 new_string = quote + multi_line_quote
 
@@ -52,11 +52,11 @@ print(super_villians['Captain Cold'])
 
 age = 21
 
-if age > 16 :
-    print('You are old enough to drive')
-else :
-    print('You are not old enough to drive')
-elif age >= 21 :
-    print('You are old enough to drive to drive a tractor trailer ')
-else :
-    print("you are not old enough to drive")
+#if age > 16 :
+#    print('You are old enough to drive')
+#else :
+#    print('You are not old enough to drive')
+#elif age >= 21 :
+#    print('You are old enough to drive to drive a tractor trailer ')
+#else :
+#    print("you are not old enough to drive")
