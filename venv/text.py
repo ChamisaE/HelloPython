@@ -6,6 +6,13 @@
 #subtraction
 
 
-#multplication
+#multiplication
 
 
+#using modulus
+
+
+#division
+
+
+#pemdas functioning
